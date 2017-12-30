@@ -1,0 +1,29 @@
+* Gesamtpunktzahl aller Biere im Vergleich
+** Sortiert nach Alessa's Bewertung
+   |                                       | Simon | Alessa | Maxi |
+   |---------------------------------------+-------+--------+------|
+   | Altenmuenster Hopfig Herb             |       |        |      |
+   | Altenmuenster Urig Wuerzig            |       |        |      |
+   | Auerhahn Vogelsberger Urtrunk         |       |        |      |
+   | Augustiner Weissbier                  |       |        |      |
+   | Bellheimer Pils                       |       |        |      |
+   | Bellheimer Doppelbock                 |       |        |      |
+   | Brauerei Simon Schwarzer Weizenbock   |       |        |      |
+   | Brauerei Simon Weissbier              |       |        |      |
+   | Buergerbraeu Haustrunk Kellerbier     |       |        |      |
+   | Duckstein Rotblondes                  |       |        |      |
+   | Frueh Koelsch                         |       |        |      |
+   | Hecht Schlenterla Rauchbier Bamberg   |       |        |      |
+   | Keiler Weissbier                      |       |        |      |
+   | Kloster Scheyern Hell                 |       |        |      |
+   | Koestritzer Pale Ale                  |       |        |      |
+   | Krusovice Cerne                       |       |        |      |
+   | Kulmbacher Feinmild                   |       |        |      |
+   | Maxl Helles                           |       |        |      |
+   | Riegele Hefe Weisse                   |       |        |      |
+   | Rittmayer Hallerndorfer Landbier Hell |       |        |      |
+   | Schmucker Kristall Weizen             |       |        |      |
+   | Sternla Helles                        |       |        |      |
+   | Stoertebeker Kellerbier               |       |        |      |
+   | Stoertebeker Pils                     |       |        |      |
+
