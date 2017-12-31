@@ -1,29 +1,86 @@
 * Gesamtpunktzahl aller Biere im Vergleich
 ** Sortiert nach Alessa's Bewertung
-   |                                       | Simon | Alessa | Maxi |
-   |---------------------------------------+-------+--------+------|
-   | Altenmuenster Hopfig Herb             |       |        |      |
-   | Altenmuenster Urig Wuerzig            |       |        |      |
-   | Auerhahn Vogelsberger Urtrunk         |       |        |      |
-   | Augustiner Weissbier                  |       |        |      |
-   | Bellheimer Pils                       |       |        |      |
-   | Bellheimer Doppelbock                 |       |        |      |
-   | Brauerei Simon Schwarzer Weizenbock   |       |        |      |
-   | Brauerei Simon Weissbier              |       |        |      |
-   | Buergerbraeu Haustrunk Kellerbier     |       |        |      |
-   | Duckstein Rotblondes                  |       |        |      |
-   | Frueh Koelsch                         |       |        |      |
-   | Hecht Schlenterla Rauchbier Bamberg   |       |        |      |
-   | Keiler Weissbier                      |       |        |      |
-   | Kloster Scheyern Hell                 |       |        |      |
-   | Koestritzer Pale Ale                  |       |        |      |
-   | Krusovice Cerne                       |       |        |      |
-   | Kulmbacher Feinmild                   |       |        |      |
-   | Maxl Helles                           |       |        |      |
-   | Riegele Hefe Weisse                   |       |        |      |
-   | Rittmayer Hallerndorfer Landbier Hell |       |        |      |
-   | Schmucker Kristall Weizen             |       |        |      |
-   | Sternla Helles                        |       |        |      |
-   | Stoertebeker Kellerbier               |       |        |      |
-   | Stoertebeker Pils                     |       |        |      |
+   |                                       | Alessa |  Simon |   Maxi |
+   |---------------------------------------+--------+--------+--------|
+   | Maxl Helles                           | 120.42 | 123.42 |      - |
+   | Buergerbraeu Haustrunk Kellerbier     |  116.9 |  120.9 |  122.9 |
+   | Schmucker Kristall Weizen             | 111.72 | 110.72 |  99.72 |
+   | Riegele Hefe Weisse                   | 108.72 |  84.72 |  98.72 |
+   | Frueh Koelsch                         | 107.72 | 110.72 |  98.72 |
+   | Stoertebeker Kellerbier               | 104.52 | 107.52 |  85.52 |
+   | Bellheimer Pils                       | 102.62 |  92.62 | 110.62 |
+   | Brauerei Simon Weissbier              |  99.32 | 120.32 | 106.32 |
+   | Kulmbacher Feinmild                   |  98.62 | 129.62 | 103.62 |
+   | Stoertebeker Pils                     |  95.12 |  82.12 |      - |
+   | Augustiner Weissbier                  |  93.24 |  92.24 |  91.24 |
+   | Altenmuenster Urig Wuerzig            |   92.7 |  105.2 |   92.2 |
+   | Duckstein Rotblondes                  |   90.3 |  109.3 |      - |
+   | Sternla Helles                        |  86.32 | 110.32 | 116.32 |
+   | Krusovice Cerne                       |  78.62 |  84.62 | 101.62 |
+   | Keiler Weissbier                      |  78.02 | 117.02 |  91.02 |
+   | Kloster Scheyern Hell                 |  76.84 | 102.84 |  99.84 |
+   | Auerhahn Vogelsberger Urtrunk         |  71.02 |  66.02 |      - |
+   | Rittmayer Hallerndorfer Landbier Hell |  70.72 |  83.72 |  78.72 |
+   | Brauerei Simon Schwarzer Weizenbock   |  67.42 | 119.42 | 101.42 |
+   | Hecht Schlenterla Rauchbier Bamberg   |  60.12 |  64.12 |  54.12 |
+   | Altenmuenster Hopfig Herb             |   57.7 |   72.2 |   55.2 |
+   | Bellheimer Doppelbock                 |  56.72 |  66.72 | 102.72 |
+   | Koestritzer Pale Ale                  |  40.26 |  63.26 |  66.26 |
+
+** Sortiert nach Maxi's Bewertung
+   |                                       |   Maxi | Alessa |  Simon |
+   |---------------------------------------+--------+--------+--------|
+   | Buergerbraeu Haustrunk Kellerbier     |  122.9 |  116.9 |  120.9 |
+   | Sternla Helles                        | 116.32 |  86.32 | 110.32 |
+   | Bellheimer Pils                       | 110.62 | 102.62 |  92.62 |
+   | Brauerei Simon Weissbier              | 106.32 |  99.32 | 120.32 |
+   | Kulmbacher Feinmild                   | 103.62 |  98.62 | 129.62 |
+   | Bellheimer Doppelbock                 | 102.72 |  56.72 |  66.72 |
+   | Krusovice Cerne                       | 101.62 |  78.62 |  84.62 |
+   | Brauerei Simon Schwarzer Weizenbock   | 101.42 |  67.42 | 119.42 |
+   | Kloster Scheyern Hell                 |  99.84 |  76.84 | 102.84 |
+   | Schmucker Kristall Weizen             |  99.72 | 111.72 | 110.72 |
+   | Riegele Hefe Weisse                   |  98.72 | 108.72 |  84.72 |
+   | Frueh Koelsch                         |  98.72 | 107.72 | 110.72 |
+   | Altenmuenster Urig Wuerzig            |   92.2 |   92.7 |  105.2 |
+   | Augustiner Weissbier                  |  91.24 |  93.24 |  92.24 |
+   | Keiler Weissbier                      |  91.02 |  78.02 | 117.02 |
+   | Stoertebeker Kellerbier               |  85.52 | 104.52 | 107.52 |
+   | Rittmayer Hallerndorfer Landbier Hell |  78.72 |  70.72 |  83.72 |
+   | Koestritzer Pale Ale                  |  66.26 |  40.26 |  63.26 |
+   | Altenmuenster Hopfig Herb             |   55.2 |   57.7 |   72.2 |
+   | Hecht Schlenterla Rauchbier Bamberg   |  54.12 |  60.12 |  64.12 |
+   | Maxl Helles                           |      - | 120.42 | 123.42 |
+   | Stoertebeker Pils                     |      - |  95.12 |  82.12 |
+   | Duckstein Rotblondes                  |      - |   90.3 |  109.3 |
+   | Auerhahn Vogelsberger Urtrunk         |      - |  71.02 |  66.02 |
+
+** Sortiert nach Simon's Bewertung
+   |                                       |  Simon | Alessa |   Maxi |
+   |---------------------------------------+--------+--------+--------|
+   | Kulmbacher Feinmild                   | 129.62 |  98.62 | 103.62 |
+   | Maxl Helles                           | 123.42 | 120.42 |      - |
+   | Buergerbraeu Haustrunk Kellerbier     |  120.9 |  116.9 |  122.9 |
+   | Brauerei Simon Weissbier              | 120.32 |  99.32 | 106.32 |
+   | Brauerei Simon Schwarzer Weizenbock   | 119.42 |  67.42 | 101.42 |
+   | Keiler Weissbier                      | 117.02 |  78.02 |  91.02 |
+   | Schmucker Kristall Weizen             | 110.72 | 111.72 |  99.72 |
+   | Frueh Koelsch                         | 110.72 | 107.72 |  98.72 |
+   | Sternla Helles                        | 110.32 |  86.32 | 116.32 |
+   | Duckstein Rotblondes                  |  109.3 |   90.3 |      - |
+   | Stoertebeker Kellerbier               | 107.52 | 104.52 |  85.52 |
+   | Altenmuenster Urig Wuerzig            |  105.2 |   92.7 |   92.2 |
+   | Kloster Scheyern Hell                 | 102.84 |  76.84 |  99.84 |
+   | Bellheimer Pils                       |  92.62 | 102.62 | 110.62 |
+   | Augustiner Weissbier                  |  92.24 |  93.24 |  91.24 |
+   | Riegele Hefe Weisse                   |  84.72 | 108.72 |  98.72 |
+   | Krusovice Cerne                       |  84.62 |  78.62 | 101.62 |
+   | Rittmayer Hallerndorfer Landbier Hell |  83.72 |  70.72 |  78.72 |
+   | Stoertebeker Pils                     |  82.12 |  95.12 |      - |
+   | Altenmuenster Hopfig Herb             |   72.2 |   57.7 |   55.2 |
+   | Bellheimer Doppelbock                 |  66.72 |  56.72 | 102.72 |
+   | Auerhahn Vogelsberger Urtrunk         |  66.02 |  71.02 |      - |
+   | Hecht Schlenterla Rauchbier Bamberg   |  64.12 |  60.12 |  54.12 |
+   | Koestritzer Pale Ale                  |  63.26 |  40.26 |  66.26 |
+
 
