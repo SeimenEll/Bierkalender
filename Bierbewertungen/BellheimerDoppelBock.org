@@ -22,4 +22,4 @@
 
 
 ** Bild
-      [[../images/BellheimerDoppelBock.jpg]]
+      [[../images/BellheimerDoppelbock.jpg]]

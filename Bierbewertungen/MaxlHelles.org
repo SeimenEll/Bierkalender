@@ -22,4 +22,4 @@
 
 
 ** Bild
-   [[../images/MaxHelles.jpg]]
+   [[../images/MaxlHelles.jpg]]

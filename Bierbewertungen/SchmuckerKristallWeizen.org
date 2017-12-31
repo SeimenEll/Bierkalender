@@ -22,4 +22,4 @@
 
 
 ** Bild
-   [[../images/SchmuckerKristallWeizen.jpg]]   
+   [[../images/SchmuckerKristallweizen.jpg]]   
